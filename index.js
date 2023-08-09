@@ -82,7 +82,7 @@ function getDayFullName(num) {
       return "Friday";
 
     case 6:
-      return "Saturdat";
+      return "Saturday";
 
     default:
       return "Don't Know";
